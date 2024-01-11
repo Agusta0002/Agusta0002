@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agusta0002
 - 👀 I’m interested in modelling and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C#
 - 📫 How to reach me:
     Discord: agusta.
 
